@@ -1,4 +1,4 @@
 # generativeAI-demo
 This is my repository.
 <br>
-Author-Sony Patil
+Author-Sony Patil (GenerativeAI)
